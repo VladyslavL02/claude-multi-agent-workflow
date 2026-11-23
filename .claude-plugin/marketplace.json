@@ -6,7 +6,7 @@
   },
   "plugins": [
     {
-      "name": "code-review-workflow",
+      "name": "code-quality",
       "source": "./",
       "description": "Reviews code with a read-only reviewer agent, then fixes confirmed issues with an editor agent."
     }
